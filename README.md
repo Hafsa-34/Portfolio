@@ -46,14 +46,9 @@
 
 ## 🧠 TryHackMe Progress
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/hafsarajpuy98.png" alt="TryHackMe Badge" />
-</p>
-
 ### 📊 Rooms Completed
-- Offensive Security Intro ✅  
-- Defensive Security Intro ✅  
-- (Add more as you progress...)
+- [Offensive Security Intro ✅](https://medium.com/@hafsa.sarfraz029/tryhackme-room1-offensive-security-intro-ecffebbcf5fb)
+- [Defensive Security Intro ✅](https://medium.com/@hafsa.sarfraz029/tryhackme-room2-defensive-security-intro-945c4a7bc6fc) 
 
 ---
 
@@ -65,14 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafsa-34&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa-34&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Streak Stats
 
